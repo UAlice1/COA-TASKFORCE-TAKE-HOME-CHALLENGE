@@ -14,5 +14,5 @@ function String(input) {
     }
     return result;
 }
-const input = "LAMANDA AYAMA! Alice UMUBYEYI";
+const input = "LAMANDA AMAYA! Alice UMUBYEYI";
 console.log(String(input));
